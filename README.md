@@ -13,7 +13,12 @@
   <a href="#"><img alt="Muhammad Ardiansyah | Youtube" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
   <a href="https://github.com/peterthehan"><img alt="Muhammad Ardiansyah | Github"title="GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 </a>
-
+<a href="https://www.github.com/dian_bugas/">
+  <img align="left" alt="Muhammad Ardiansyah | Github" width="22px" src="https://github.com/dianynf/dianynf/blob/main/icons/github.png" />
+</a>
+<a href="https://www.gitlab.com/dianynf">
+  <img align="left" alt="Muhammad Ardiansyah | Gitleb" width="22px" src="https://github.com/dianynf/dianynf/blob/main/icons/gitleb.png" />
+</a>
 <br />
 
 Hi, I'm Muhammad Ardiansyah, a passionate self-taught Developer Web developer and a freelance software engineer from indonesia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
