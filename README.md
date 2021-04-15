@@ -38,6 +38,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" height="20" /></a></code>
 <code><a href="https://codeigniter.com/" title="Codeigniter"><img src="https://lauwba.com/foto_berita/training--kursus-website-framework-ci-(codeigniter).jpg" height="20" /></a></code>
+<code><a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" height="20"/></a></code>
+<code><a href="https://www.php.net/" title="PHP"><img src="icons/php.png" height="20"/></a></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
