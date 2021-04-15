@@ -17,7 +17,7 @@
   <img align="left" alt="Muhammad Ardiansyah | Github" width="22px" src="https://github.com/dianynf/dianynf/blob/main/icons/github.png" />
 </a>
 <a href="https://www.gitlab.com/dianynf">
-  <img align="left" alt="Muhammad Ardiansyah | Gitleb" width="22px" src="https://github.com/dianynf/dianynf/blob/main/icons/gitleb.png" />
+  <img align="left" alt="Muhammad Ardiansyah | Gitleb" width="22px" src="https://github.com/dianynf/dianynf/blob/main/icons/gitlab.png" />
 </a>
 <br />
 
