@@ -12,7 +12,7 @@
   <img align="left" alt="Muhammad Ardiansyah | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
   <a href="#"><img alt="Muhammad Ardiansyah | Youtube" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
   
-  <a href="https://github.com/dianynf"><img alt="Muhammad Ardiansyah | Github"title="GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+  <a href="https://github.com/dianynf"><img alt="Muhammad Ardiansyah | Github"title="GitHub" width="22px"
 </a>
 <br />
 
