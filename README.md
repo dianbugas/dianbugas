@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/dian_bugas/">
-  <img align="left" alt="Muhammad Ardiansyah | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Muhammad Ardiansyah | Instagram" width="22px" src="https://github.com/dianynf/dianynf/blob/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/dianbugas?s=08">
   <img align="left" alt="Muhammad Ardiansyah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -13,8 +13,6 @@
   <a href="#"><img alt="Muhammad Ardiansyah | Youtube" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
   <a href="https://github.com/peterthehan"><img alt="Muhammad Ardiansyah | Github"title="GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
