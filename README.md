@@ -15,6 +15,9 @@
   <a href="https://github.com/dianynf">
   <img align="left" alt="Muhammad Ardiansyah | GitHub" width="22px" src="https://github.com/dianynf/dianynf/blob/main/icons/github.png" />
 </a>
+<a href="https://gitlab.com/dianynf">
+  <img align="left" alt="Muhammad Ardiansyah | Gitlab" width="22px" src="https://github.com/dianynf/dianynf/blob/main/icons/gitlab.png" />
+</a>
 <br />
 
 Hi, I'm Muhammad Ardiansyah, a passionate self-taught Developer Web developer and a freelance software engineer from indonesia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
