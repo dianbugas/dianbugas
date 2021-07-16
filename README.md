@@ -10,7 +10,7 @@
 </a>
 <a href="https://www.facebook.com/ardiansyah.muhammad.794">
   <img align="left" alt="Muhammad Ardiansyah | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-  <a href="#"><img alt="Muhammad Ardiansyah | Youtube" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
+  <a href="https://www.youtube.com/channel/UCdAyi2NV-_P-QIE05kkZstg"><img alt="Muhammad Ardiansyah | Youtube" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
   
   <a href="https://github.com/dianynf">
   <img align="left" alt="Muhammad Ardiansyah | GitHub" width="22px" src="https://github.com/dianynf/dianynf/blob/main/icons/github.png" />
