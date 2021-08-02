@@ -55,7 +55,7 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=dianynf&show_icons=true&theme=merko)](https://github.com/dianynf)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianynf&layout=compact&theme=merko)](https://github.com/dianynf/github-readme-stats)
+[![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=dianbugas&show_icons=true&theme=merko)](https://github.com/dianbugas)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianbugas&layout=compact&theme=merko)](https://github.com/dianbugas/github-readme-stats)
 
 
