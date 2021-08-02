@@ -10,6 +10,9 @@
 </a>
 <a href="https://www.facebook.com/ardiansyah.muhammad.794">
   <img align="left" alt="Muhammad Ardiansyah | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <a href="https://www.tiktok.com/@dian_bugas?lang=id-ID">
+  <img align="left" alt="Muhammad Ardiansyah | Tiktok" width="22px" src="https://github.com/dianbugas/dianbugas/blob/main/icons/tiktok.png" /></a>
+    
   <a href="https://www.youtube.com/channel/UCdAyi2NV-_P-QIE05kkZstg"><img alt="Muhammad Ardiansyah | Youtube" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
   
   <a href="https://github.com/bugas">
