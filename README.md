@@ -33,7 +33,8 @@
   <a href="https://dribbble.com/dianbugas">
   <img align="left" alt="Muhammad Ardiansyah | Bribbble" width="22px" src="https://github.com/dianbugas/dianbugas/blob/main/icons/dribbel.png" />
 </a>
-<br />
+<br>
+<br>
 
 Hi, I'm Muhammad Ardiansyah, a passionate self-taught Developer Web developer and a freelance software engineer from indonesia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -47,7 +48,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://github.com/dianbugas/dianbugas.github.io/blob/master/assets/icon/html.svg"></code> 
+<code><img height="20" src="https://github.com/dianbugas/dianbugas.github.io/blob/master/assets/icon/css.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://github.com/dianbugas/dianbugas.github.io/blob/master/assets/icon/bootstrap.svg"></code>
+<code><img height="20" src="https://github.com/dianbugas/dianbugas.github.io/blob/master/assets/icon/php.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -56,8 +61,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" height="20" /></a></code>
 <code><a href="https://codeigniter.com/" title="Codeigniter"><img src="https://lauwba.com/foto_berita/training--kursus-website-framework-ci-(codeigniter).jpg" height="20" /></a></code>
+<code><img height="20" src="https://github.com/dianbugas/dianbugas.github.io/blob/master/assets/icon/yii.png"></code> 
+<code><img height="20" src="https://github.com/dianbugas/dianbugas.github.io/blob/master/assets/icon/yii.png"></code>
 <code><a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" height="20"/></a></code>
 <code><a href="https://www.php.net/" title="PHP"><img src="icons/php.png" height="20"/></a></code>
+<code><img height="20" src="https://github.com/dianbugas/dianbugas.github.io/blob/master/assets/icon/gimp.svg"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
