@@ -9,7 +9,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/ardiansyah.muhammad.794">
-  <img align="left" alt="Muhammad Ardiansyah | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Muhammad Ardiansyah | Facebook" width="22px" src="https://github.com/dianbugas/dianbugas/blob/main/icons/1365px-Facebook_f_logo_(2019).svg.png" />
   <a href="https://www.tiktok.com/@dian_bugas?lang=id-ID">
   <img align="left" alt="Muhammad Ardiansyah | Tiktok" width="22px" src="https://github.com/dianbugas/dianbugas/blob/main/icons/tiktok.png" /></a>
     
