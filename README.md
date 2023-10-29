@@ -6,14 +6,14 @@
   <img align="left" alt="Muhammad Ardiansyah | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-ardiansyah-2657bb190/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 <a href="https://www.facebook.com/ardiansyah.muhammad.794">
   <img align="left" alt="Muhammad Ardiansyah | Facebook" width="22px" src="https://github.com/dianbugas/dianbugas/blob/main/icons/1365px-Facebook_f_logo_(2019).svg.png" />
   <a href="https://www.tiktok.com/@dian_bugas?lang=id-ID">
   <img align="left" alt="Muhammad Ardiansyah | Tiktok" width="22px" src="https://github.com/dianbugas/dianbugas/blob/main/icons/tiktok.png" /></a>
     
-  <a href="https://www.youtube.com/channel/UCdAyi2NV-_P-QIE05kkZstg"><img alt="Muhammad Ardiansyah | Youtube" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
+  <a href="https://www.youtube.com/channel/UCdAyi2NV-_P-QIE05kkZstg"><img alt="Muhammad Ardiansyah | Youtube" title="YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/1200px-YouTube_social_red_circle_%282017%29.svg.png"></a>
   
   <a href="https://github.com/bugas">
   <img align="left" alt="Muhammad Ardiansyah | GitHub" width="22px" src="https://github.com/dianynf/dianynf/blob/main/icons/github.png" />
