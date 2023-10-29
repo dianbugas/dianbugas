@@ -3,7 +3,7 @@
   <img align="left" alt="Muhammad Ardiansyah | Instagram" width="22px" src="https://github.com/dianynf/dianynf/blob/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/dianbugas?s=08">
-  <img align="left" alt="Muhammad Ardiansyah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Muhammad Ardiansyah | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-ardiansyah-2657bb190/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
